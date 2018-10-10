@@ -1,0 +1,5 @@
+node_modules/
+chain/
+chaindata/
+build/
+app.db/
