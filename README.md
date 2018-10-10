@@ -9,6 +9,12 @@ Run the following commands in the root folder of project
 ./loom run
 ```
 
+## Deploy contracts on Loom DappChain
+Run the following command in the root folder of project
+```
+truffle migrate --network loom_dapp_chain
+```
+
 ## Start the Node.js server
 ```
 node server.js
